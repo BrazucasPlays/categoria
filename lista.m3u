@@ -18,6 +18,10 @@ https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png"group-title="Filmes e Séries", AXN
 http://64.31.40.14:14027/
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Filmes e Séries",Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cinemax.png"group-title="Filmes e Séries", Cinemax
 http://64.31.40.14:14031/
 
