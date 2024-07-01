@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Player de Vídeo HTML5</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  video {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+  <h1>Player de Vídeo</h1>
+
+  <h2>Vídeo MP4</h2>
+  <video controls>
+    <source src="seu_video.mp4" type="video/mp4">
+    Seu navegador não suporta vídeo HTML5.
+  </video>
+
+  <h2>Vídeo do Google Drive</h2>
+  <p>Para inserir um vídeo do Google Drive, você precisa pegar o link direto do vídeo. Substitua 'ID_DO_SEU_VIDEO' pelo ID real do vídeo do Google Drive.</p>
+  <video controls>
+    <source src="https://drive.google.com/uc?export=download&id=ID_DO_SEU_VIDEO" type="video/mp4">
+    Seu navegador não suporta vídeo HTML5.
+  </video>
+
+</body>
+</html>
