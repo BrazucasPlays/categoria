@@ -27,7 +27,7 @@
   <h2>Vídeo do Google Drive</h2>
   <p>Para inserir um vídeo do Google Drive, você precisa pegar o link direto do vídeo. Substitua 'ID_DO_SEU_VIDEO' pelo ID real do vídeo do Google Drive.</p>
   <video controls>
-    <source src="https://drive.google.com/uc?export=download&id=ID_DO_SEU_VIDEO" type="video/mp4">
+    <source src="https://drive.google.com/drive/u/0/mobile/folders/1r9ekx-81k9O6xi9nELj03MaruIDhC88x/1rGFYfxw_kiKbRVl67J_v_zADY1thD_9K?sort=13&direction=a" type="video/mp4">
     Seu navegador não suporta vídeo HTML5.
   </video>
 
