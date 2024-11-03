@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fac0d5578322_2b85468f3e176b77e9b1c454be3538d1.jpg"group-title="abertos", RIT
-http://plonis689.mov/get.php?username=527529027&password=K820J4920T&type=m3u_plus&output=ts
+https://plonis689.mov/get.php?username=527529027&password=K820J4920T&type=m3u_plus&output=ts
 
 #EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fac0d5578322_2b85468f3e176b77e9b1c454be3538d1.jpg"group-title="abertos", REDE VIDA
 https://cdn-2.nxplay.com.br/REDE_VIDA_TK/index.m3u8
